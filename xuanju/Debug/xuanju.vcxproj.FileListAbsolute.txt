@@ -1,0 +1,2 @@
+D:\study_source\c_code\test2021.1.8\xuanju\Debug\xuanju.exe
+D:\study_source\c_code\test2021.1.8\xuanju\Debug\xuanju.pdb
